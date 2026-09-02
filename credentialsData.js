@@ -1,0 +1,112 @@
+export const credentialsData = [
+  {
+    id: "aws-ml-nlp",
+    title: "AWS Academy Graduate — Machine Learning for Natural Language Processing",
+    issuer: "Amazon Web Services (AWS Academy)",
+    date: "Issued: 09/02/2026",
+    type: "AWS Academy Training Badge",
+    category: "AI & Natural Language Processing",
+    description: "Training credential in AWS Machine Learning services, text preprocessing pipelines, natural language processing concepts, model training basics, and cloud AI workflows.",
+    file: "/certificates/AWS_Academy_Graduate___Machine_Learning_for_Natural_Language_Processing___Training_Badge_Badge20260902-20-21jdd1.pdf",
+    verifyUrl: "https://www.credly.com",
+    isBadge: true,
+    hours: "20 Hours"
+  },
+  {
+    id: "aws-cloud-foundations",
+    title: "AWS Academy Graduate — Cloud Foundations",
+    issuer: "Amazon Web Services (AWS Academy)",
+    date: "Issued: 08/21/2026",
+    type: "AWS Academy Training Badge",
+    category: "Cloud Computing & Architecture",
+    description: "Training credential in AWS core cloud infrastructure, IAM security, compute services (EC2, Lambda), storage systems (S3), and cloud database concepts.",
+    file: "/certificates/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260821-19-71wc51.pdf",
+    verifyUrl: "https://www.credly.com",
+    isBadge: true,
+    hours: "20 Hours"
+  },
+  {
+    id: "aws-ml-foundations",
+    title: "AWS Academy Graduate — Machine Learning Foundations",
+    issuer: "Amazon Web Services (AWS Academy)",
+    date: "Verified Training Certificate",
+    type: "AWS Academy Training Badge",
+    category: "Cloud & Machine Learning",
+    description: "Training credential covering Machine Learning algorithms, AWS Sagemaker pipelines, dataset preparation, and automated machine learning workflows.",
+    file: "/certificates/AWS CERTIFICATE.pdf",
+    verifyUrl: null,
+    isBadge: true
+  },
+  {
+    id: "google-digital-marketing",
+    title: "Google Fundamentals of Digital Marketing",
+    issuer: "Google Digital Garage",
+    date: "Verified Certification",
+    type: "Professional Certification",
+    category: "Digital Marketing & Campaign Analytics",
+    description: "Certified proficiency in search engine optimization (SEO), digital ad campaign structures, web analytics, CTR/ROI optimization, and online audience targeting.",
+    file: "/certificates/google ceritificate.pdf.pdf",
+    verifyUrl: null,
+    isBadge: false
+  },
+  {
+    id: "hubspot-seo",
+    title: "HubSpot SEO Certified",
+    issuer: "HubSpot Academy",
+    date: "Verified Certification",
+    type: "Professional Certification",
+    category: "Search Engine Optimization",
+    description: "Certification in search engine optimization strategy, technical SEO audits, keyword research, on-page optimization, and organic backlink development.",
+    file: "/certificates/hubspot seo.png",
+    verifyUrl: null,
+    isBadge: false
+  },
+  {
+    id: "hubspot-aeo",
+    title: "HubSpot AEO Fundamentals",
+    issuer: "HubSpot Academy",
+    date: "Verified Certification",
+    type: "Professional Certification",
+    category: "Answer Engine Optimization",
+    description: "Certification in Answer Engine Optimization (AEO), structuring semantic content for AI search engines, snippet targeting, and entity-based optimization.",
+    file: "/certificates/hubspot AEO fundamentals.png",
+    verifyUrl: null,
+    isBadge: false
+  },
+  {
+    id: "industrial-iot",
+    title: "Industrial IoT — Meeting Industry Demands",
+    issuer: "Indus University / Industry Program",
+    date: "Technical Certification",
+    type: "Specialized Training Certificate",
+    category: "IoT & Hardware Automation",
+    description: "Technical certification covering Industrial IoT principles, sensor communication protocols, microcontroller data logging, and smart automated monitoring systems.",
+    file: "/certificates/industrail iot certificate.jpeg",
+    verifyUrl: null,
+    isBadge: false
+  },
+  {
+    id: "mern-internship-cert",
+    title: "MERN Stack Development Internship Certificate",
+    issuer: "Radixweb",
+    date: "July 2026 – Present",
+    type: "Industry Internship Certificate",
+    category: "Full Stack Development",
+    description: "Internship training credential in building React frontend interfaces, REST API integration, CRUD database operations, and scalable web software practices.",
+    file: "/certificates/AWS CERTIFICATE.pdf",
+    verifyUrl: null,
+    isBadge: false
+  },
+  {
+    id: "web-marketing-cert",
+    title: "Digital Marketing & Web Development Internship",
+    issuer: "Pruthvi Infotech Pvt. Ltd.",
+    date: "Verified Internship Document",
+    type: "Industry Internship Certificate",
+    category: "Web & Campaign Analytics",
+    description: "Internship project credential for developing HTML/CSS/JS landing pages, managing multi-platform social advertising campaigns, and analyzing campaign ROI.",
+    file: "/certificates/Pruthvi info tech certificate.pdf",
+    verifyUrl: null,
+    isBadge: false
+  }
+];
